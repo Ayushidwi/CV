@@ -1,0 +1,70 @@
+
+.h
+
+{
+  margin-top:5rem;
+  text-align:center;
+  padding-top:2rem;
+  padding-bottom:4rem;
+  font-family: 'Pacifico', cursive;
+  color:white;
+
+}
+.h:hover{
+  color:#fe346e;
+}
+.ab
+{
+
+    background-color:#e19999;
+  padding:3rem;
+  font-size:1.5rem;
+  color:#ffffff;
+  margin-left:5rem;
+  margin-right:2rem;
+height:11rem;
+width:11rem;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+
+}
+.ab:hover{
+  background-color: #fe346e;
+}
+.jag
+{
+margin-left:28rem;
+padding-top:2rem;
+}
+
+.matt
+{
+  padding-left:20rem;
+  padding-right:23rem;
+}.abc
+{
+
+    background-color:#e19999;
+  padding:3.5rem;
+  font-size:1.5rem;
+  color:#ffffff;
+  margin-left:5rem;
+  margin-right:2rem;
+height:13rem;
+width:13rem;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+  padding-top:2rem;
+
+}
+.abc:hover{
+  background-color: #fe346e;
+}
+.sec1
+{
+  background-color: #ffe8df;
+}
+.sec2
+{
+  background-color: #ffe8df;
+}
